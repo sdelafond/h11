@@ -1,5 +1,5 @@
-h11 (0.8.0-1) unstable; urgency=low
+python-h11 (0.8.0-1) unstable; urgency=medium
 
   * First upload (Closes: #894547)
 
- -- Sebastien Delafond <seb@debian.org>  Sun, 01 Apr 2018 11:21:43 +0200
+ -- Sebastien Delafond <seb@debian.org>  Sun, 01 Apr 2018 11:34:58 +0200
