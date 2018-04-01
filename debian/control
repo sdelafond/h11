@@ -1,0 +1,24 @@
+Source: python-h11
+Maintainer: Sebastien Delafond <seb@debian.org>
+Section: python
+Priority: optional
+Build-Depends: dh-python, python3-setuptools, python3-all, debhelper (>= 9)
+Standards-Version: 4.1.3
+Homepage: https://github.com/njsmith/h11
+Vcs-Git: https://salsa.debian.org/debian/python-h11.git
+Vcs-Browser: https://salsa.debian.org/debian/python-h11
+
+Package: python3-h11
+Architecture: all
+Depends: ${misc:Depends}, ${python3:Depends}
+Description: A pure-Python, bring-your-own-I/O implementation of HTTP/1.1 (Python 3)
+ HTTP/1.1 library written from scratch in Python, heavily inspired by
+ hyper-h2.
+ .
+ It's a "bring-your-own-I/O" library; h11 contains no IO code
+ whatsoever. This means you can hook h11 up to your favorite network
+ API, and that could be anything you want: synchronous, threaded,
+ asynchronous, or your own implementation of RFC 6214 – h11 won’t
+ judge you.
+ .
+ This is the Python 3 package.
