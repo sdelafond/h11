@@ -10,6 +10,10 @@ Files: docs/source/_static/facebox.js
 Copyright: 2007, 2008 Chris Wanstrath <chris@ozmm.org>
 License: MIT
 
+Files: docs/source/_static/show-code.js
+Copyright: 2012 Statsmodels Developers
+License: BSD-3
+
 Files: debian/*
 Copyright: 2018 Sebastien Delafond <seb@debian.org>
 License: MIT
@@ -32,3 +36,6 @@ License: MIT
  CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, 
  TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE 
  SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+License: BSD-3
+ See /usr/share/common-licenses/GPL-3
