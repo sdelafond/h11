@@ -1,3 +1,10 @@
+python-h11 (0.8.1-1) unstable; urgency=medium
+
+  * New upstream version 0.8.1
+  * Update upstream URL
+
+ -- Sebastien Delafond <seb@debian.org>  Wed, 25 Apr 2018 07:04:50 +0200
+
 python-h11 (0.8.0-2) unstable; urgency=medium
 
   * Switch to DEP 14
