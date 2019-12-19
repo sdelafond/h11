@@ -1,5 +1,5 @@
 Source: python-h11
-Maintainer: Sebastien Delafond <seb@debian.org>
+Maintainer: Debian QA Group <packages@qa.debian.org>
 Section: python
 Priority: optional
 Build-Depends: dh-python, python3-setuptools, python3-all, debhelper (>= 9), python3-pytest
