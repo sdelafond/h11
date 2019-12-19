@@ -1,3 +1,9 @@
+python-h11 (0.8.1-2) unstable; urgency=medium
+
+  * Set maintainer to Debian QA Group
+
+ -- Sebastien Delafond <seb@debian.org>  Thu, 19 Dec 2019 14:36:15 +0100
+
 python-h11 (0.8.1-1) unstable; urgency=medium
 
   * New upstream version 0.8.1
